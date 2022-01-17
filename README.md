@@ -3,7 +3,7 @@
 <p>
 
      
-## Filters
+## [Filters](https://stackoverflow.com/a/50788929/6021740)
 ```kotlin
 val names = arrayOf("one", "two", "three", "four" )
 val anotherNames = arrayOf( "one", "five", "ten" )
